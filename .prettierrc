@@ -1,0 +1,13 @@
+{
+    "useTabs": false,
+    "tabWidth": 4,
+    "printWidth": 150,
+    "singleQuote": false,
+    "trailingComma": "all",
+    "semi": true,
+    "vueIndentScriptAndStyle": true,
+    "htmlWhitespaceSensitivity": "ignore",
+    "vueInterpolationDelimiters": ["{{", "}}"],
+    "plugins": ["prettier-plugin-tailwindcss", "prettier-plugin-organize-attributes"],
+    "attributeGroups": ["^v-", "^:", "^@", "^(id|name)$", "^aria-", "^data-"]
+}
