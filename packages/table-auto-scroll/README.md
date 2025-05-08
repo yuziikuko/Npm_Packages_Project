@@ -3,8 +3,8 @@
 ## 一、博客
 
 - [GitHub Page](https://yuziikuko.github.io/)
-- [稀土掘金](https://juejin.cn/post/7209928548601610296)
-- [CSDN](http://t.csdn.cn/WwqGp)
+- [稀土掘金](https://juejin.cn/user/391883897185560)
+- [CSDN](https://blog.csdn.net/qq_41728543?type=blog)
 
 ## 二、简介
 
