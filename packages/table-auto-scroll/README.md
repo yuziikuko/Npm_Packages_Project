@@ -2,9 +2,9 @@
 
 ## 一、博客
 
-- [GitHub Page](https://yuziikuko.github.io/)
-- [稀土掘金](https://juejin.cn/user/391883897185560)
-- [CSDN](https://blog.csdn.net/qq_41728543?type=blog)
+- [GitHub Page](https://yuziikuko.github.io/articles/12.html)
+- [稀土掘金](https://juejin.cn/post/7501649816371445798)
+- [CSDN](https://blog.csdn.net/qq_41728543/article/details/147797785?spm=1001.2014.3001.5501)
 
 ## 二、简介
 
@@ -16,6 +16,8 @@
 - 滚动到表格底部时回到顶部，再次自动滚动。
 - 鼠标移入表格区域时，暂停自动滚动。
 - 鼠标移出表格区域后，开始自动滚动。
+
+<img src="./public/表格自动滚动.gif" alt="表格自动滚动" />
 
 ## 四、使用
 
