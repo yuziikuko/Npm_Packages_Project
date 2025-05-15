@@ -17,7 +17,7 @@
 - 鼠标移入表格区域时，暂停自动滚动。
 - 鼠标移出表格区域后，开始自动滚动。
 
-<img src="./src/assets/表格自动滚动.gif" alt="表格自动滚动" />
+<img src="https://p6-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/5959a72249574c2fb23917193e96bc78~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAg6YOB5a2QSUtVS08=:q75.awebp?rk3s=f64ab15b&x-expires=1747301080&x-signature=F%2BVZqnwUShoC%2FXTPQZ8P7RA%2B2hE%3D" alt="表格自动滚动" />
 
 ## 四、使用
 
