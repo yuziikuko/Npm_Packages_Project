@@ -1,6 +1,6 @@
 {
     "name": "table-auto-scroll",
-    "version": "1.0.3",
+    "version": "1.0.4",
     "description": "表格自动滚动",
     "main": "dist/table-auto-scroll.umd.js",
     "module": "dist/table-auto-scroll.esm.js",

@@ -9,7 +9,6 @@
 ## 二、发布到NPM
 
 1. CMD进入要发布的NPM包工程目录；
-2. 运行 `npm login` 登录到远端NPM账号；
-3. 运行 `npm publish` 发布NPM包；
-
-> 每次发布需要确保 `package.json` 中的 `version` 语义化迭代。
+2. 修改 `package.json` 中的 `version` ，确保语义化迭代；
+3. 运行 `npm login` 登录到远端NPM账号；
+4. 运行 `npm publish` 发布NPM包。
